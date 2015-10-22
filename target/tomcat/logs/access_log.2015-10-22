@@ -1,3 +1,0 @@
-127.0.0.1 - - [22/Oct/2015:14:45:31 +0200] "GET /HelloSpringMVC/hello HTTP/1.1" 200 300 http-bio-8080-exec-1 1028
-127.0.0.1 - - [22/Oct/2015:14:45:31 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
-127.0.0.1 - - [22/Oct/2015:14:45:31 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
